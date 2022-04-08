@@ -1,2 +1,2 @@
 # HappingCream
-Intro
+Project in progress
